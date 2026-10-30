@@ -15,6 +15,7 @@ import {
   Platform,
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+npm ls @react-native-async-storage/async-localStorage.setItem('$0', JSON.stringify($1));
 
 export default function App() {
   const [accounts, setAccounts] = useState([]);
